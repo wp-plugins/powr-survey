@@ -45,14 +45,15 @@
     == Frequently Asked Questions ==
 
     = How can I add Survey to a blog post or page? =
-    <br>
+    <p>
     Just add the shortcode **[powr-survey label='MY LABEL']** (including the brackets) in your post where you'd like your Survey to appear. Then visit your page!
+    </p>
 
 
     = How can I add  Survey to my site multiple times? =
-    <br>
+    <p>
     Just be sure to specify different label text, eg **[powr-survey label='MY LABEL 1']**, **[powr-survey label='MY LABEL 2']** for each time you use the plugin
-
+    </p>
 
     = Why do you require me to sign up? =
     Signing up is what allows us to track which plugins are yours, and allows you to edit them right in your page.
