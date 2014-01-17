@@ -25,7 +25,7 @@
     Features:
     <br><br>
     * Unlimited number of form inputs, including text, text-areas, select fields, radio buttons, checkboxes, and more<br> * Fully customized fonts, colors, borders and background to fit your brand<br> * Language support - customize text to use any language<br> * Immediate email notifications when a form is submitted<br> * Custom "thank you" message when form is submitted<br> * Option to require users to fill in fields<br> * Mobile responsive - designed to look great on desktop, tablets, and mobile
-    
+
 
     == Installation ==
 
