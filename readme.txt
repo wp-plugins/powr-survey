@@ -28,11 +28,11 @@
 
 
     == Installation ==
-
     To install POWr Survey
     <br><br>
     1. Upload 'powr-survey.php' to the '/wp-content/plugins/' directory
-    1. Activate the plugin through the 'Plugins' menu in WordPress
+    <br>
+    2. Activate the plugin through the 'Plugins' menu in WordPress
     <br><br>
     To add POWr Survey as a widget, go to **Appearance->Widgets**, and drag POWr Survey to where you'd like it to appear.
     <br><br>
