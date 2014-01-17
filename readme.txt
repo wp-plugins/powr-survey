@@ -30,50 +30,43 @@
     == Installation ==
 
     To install POWr Survey
-
+    <br><br>
     1. Upload 'powr-survey.php' to the '/wp-content/plugins/' directory
     1. Activate the plugin through the 'Plugins' menu in WordPress
-
+    <br><br>
     To add POWr Survey as a widget, go to **Appearance->Widgets**, and drag POWr Survey to where you'd like it to appear.
-
+    <br><br>
     To add Survey within a post or a page, simply write the shortcode **[powr-survey label='MY LABEL']** (including the brackets) where you'd like your Survey to appear. Then visit your page!
-
+    <br><br>
     Want a more detailed tutorial? Visit [How to add Survey to your Wordpress site](http://www.powr.io/tutorials/how-to-add-survey-plugin-to-your-wordpress-site)
 
 
     == Frequently Asked Questions ==
 
     = How can I add Survey to a blog post or page? =
-
     Just add the shortcode **[powr-survey label='MY LABEL']** (including the brackets) in your post where you'd like your Survey to appear. Then visit your page!
 
 
     = How can I add  Survey to my site multiple times? =
-
     Just be sure to specify different label text, eg **[powr-survey label='MY LABEL 1']**, **[powr-survey label='MY LABEL 2']** for each time you use the plugin
 
 
     = Why do you require me to sign up? =
-
     Signing up is what allows us to track which plugins are yours, and allows you to edit them right in your page.
 
 
     = Will my users see the settings icon in the corner of the Survey? =
-
     No! You only see the settings icon because you own the plugins. To temporarily hide it, click on your page and then type 'p + down arrow' (the letter p followed by the down arrow). You can show the icon again by typing 'p + up-arrow'.
 
 
     = I can't see the settings icon anymore, what happened? =
-
     You are just logged out of POWr.io. You can show the icon again by typing 'p + up-arrow'.
 
 
     = Is POWr Survey Free? =
-
     Yes, the basic version of Survey is completely free!
 
     = Why should I upgrade? =
-
     Upgrading removes all POWr watermarks, speeds up widget loading speed, gets you premium support, and most importantly supports the creation of more great plugins!
 
 
