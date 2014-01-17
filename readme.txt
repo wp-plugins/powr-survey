@@ -12,7 +12,7 @@
     Create a custom Survey in minutes.
 
     == Description ==
-    <p>
+
     POWr Survey is a mobile-responsive, fully-customizable plugin that you can edit **right in the page**.
     Add the widget to your site, or use the shortcode **[powr-survey]** to add Survey to any post.
     <br><br>
@@ -25,7 +25,7 @@
     Features:
     <br><br>
     * Unlimited number of form inputs, including text, text-areas, select fields, radio buttons, checkboxes, and more<br> * Fully customized fonts, colors, borders and background to fit your brand<br> * Language support - customize text to use any language<br> * Immediate email notifications when a form is submitted<br> * Custom "thank you" message when form is submitted<br> * Option to require users to fill in fields<br> * Mobile responsive - designed to look great on desktop, tablets, and mobile
-    </p>
+    
 
     == Installation ==
 
