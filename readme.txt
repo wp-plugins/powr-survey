@@ -32,7 +32,8 @@
     To install POWr Survey
     <br><br>
     1. Upload 'powr-survey.php' to the '/wp-content/plugins/' directory
-    1. Activate the plugin through the 'Plugins' menu in WordPress
+    <br>
+    2. Activate the plugin through the 'Plugins' menu in WordPress
     <br><br>
     To add POWr Survey as a widget, go to **Appearance->Widgets**, and drag POWr Survey to where you'd like it to appear.
     <br><br>
@@ -44,10 +45,12 @@
     == Frequently Asked Questions ==
 
     = How can I add Survey to a blog post or page? =
+    <br>
     Just add the shortcode **[powr-survey label='MY LABEL']** (including the brackets) in your post where you'd like your Survey to appear. Then visit your page!
 
 
     = How can I add  Survey to my site multiple times? =
+    <br>
     Just be sure to specify different label text, eg **[powr-survey label='MY LABEL 1']**, **[powr-survey label='MY LABEL 2']** for each time you use the plugin
 
 
