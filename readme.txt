@@ -51,17 +51,12 @@
 
     = Will my users see the settings icon in the corner of the Survey? = No! You only see the settings icon because you own the plugins. To temporarily hide it, click on your page and then type 'p + down arrow' (the letter p followed by the down arrow). You can show the icon again by typing 'p + up-arrow'.
 
-    = I can't see the settings icon anymore, what happened? =
+    = I can't see the settings icon anymore, what happened? = You are just logged out of POWr.io. You can show the icon again by typing 'p + up-arrow'.
 
-    You are just logged out of POWr.io. You can show the icon again by typing 'p + up-arrow'.
+    = Is POWr Survey Free? = Yes, the basic version of Survey is completely free!
 
-    = Is POWr Survey Free? =
+    = Why should I upgrade? = Upgrading removes all POWr watermarks, speeds up widget loading speed, gets you premium support, and most importantly supports the creation of more great plugins!
 
-    Yes, the basic version of Survey is completely free!
-
-    = Why should I upgrade? =
-
-    Upgrading removes all POWr watermarks, speeds up widget loading speed, gets you premium support, and most importantly supports the creation of more great plugins!
 
     == Screenshots ==
 
