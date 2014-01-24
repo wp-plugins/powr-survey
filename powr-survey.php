@@ -42,7 +42,7 @@
           if(powr_local_mode()){//Determine JS url:
             $js_url = '//localhost:3000/powr_local.js';
           }else{
-            $js_url = '//powr.io/powr.js';
+            $js_url = '//s3-us-west-1.amazonaws.com/powr/powr.min.js';
           }
           ?>
           <script>
