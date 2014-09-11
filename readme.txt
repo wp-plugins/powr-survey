@@ -5,7 +5,7 @@ Donate link: http://powr.io/
 Tags: Survey, create survey, custom survey, free survey, questionnaire, survey monkey, survey gizmo, survey widget, survey plugin, mobile responsive
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -75,7 +75,16 @@ Want a more detailed tutorial? Visit [How to add Survey to your Wordpress site](
 = 1.0 =
 First released version.
 
+= 1.1 =
+Improved SSL Support
+
+
 
 == Changelog ==
 = 1.0 =
 * First released version
+
+= 1.1 =
+* Improved SSL Support
+
+
