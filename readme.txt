@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: subscription, analytics dashboard, RSVP, dynamic, order form, html form, online forms, form creator, application form, newsletter, quiz, quizzes, support, small business, email, contact, spam, CAPTCHA, analytics, data, database, themes, feedback, registration, contact form, customer satisfaction survey, event registration, job application, online quiz, sales lead form, donation form, subscribe to newsletter, online poll, testimonial form, support request, responsive web design, personalized, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, Survey, create survey, custom survey, free survey, questionnaire, survey monkey, survey gizmo, survey widget, survey plugin, mobile responsive
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
