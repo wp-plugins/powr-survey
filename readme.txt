@@ -2,25 +2,26 @@
 ===POWr Survey===
 Contributors: powr
 Donate link: http://powr.io/
-Tags: subscription, analytics dashboard, RSVP, dynamic, order form, html form, online forms, form creator, application form, newsletter, quiz, quizzes, support, small business, email, contact, spam, CAPTCHA, analytics, data, database, themes, feedback, registration, contact form, customer satisfaction survey, event registration, job application, online quiz, sales lead form, donation form, subscribe to newsletter, online poll, testimonial form, support request, responsive web design, personalized, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, Survey, create survey, custom survey, free survey, questionnaire, survey monkey, survey gizmo, survey widget, survey plugin, mobile responsive
+Tags: subscription, analytics dashboard, RSVP, dynamic, order form, html form, online forms, form creator, application form, newsletter, quiz, quizzes, support, small business, email, contact, spam, CAPTCHA, analytics, data, database, themes, feedback, registration, contact form, customer satisfaction survey, event registration, job application, online quiz, sales lead form, donation form, subscribe to newsletter, online poll, testimonial form, support request, responsive web design, personalized, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, Survey, create survey, custom survey, free survey, questionnaire, survey monkey, survey gizmo, survey widget, survey plugin, mobile responsive, powr survey
 Requires at least: 3.0
 Tested up to: 4.1
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-POWr Survey lets you create and customize a unique, beautiful Survey in seconds.  Edit right in your web page!
+Unique, beautiful, responsive surveys for your site.
 
 == Description ==
-POWr Survey is a free cloud-based application.  Create a POWr account to add, edit, and customize POWr Plugins right in your webpage.
+Unique, beautiful, responsive surveys for your site.
 <br>
 <br>
-To use Survey, download and install the plugin, then add to your site as a widget or a shortcode in any post or page: **[powr-banner-slider]**
-
-<blockquote>
-= <a href='https://www.powr.io/plugins/survey'>Download</a>  |  <a href='http://www.powr.io/tutorials/how-to-add-survey-plugin-to-your-wordpress-site'>Install Help</a>  |  <a href='http://www.powr.io/knowledge-base'>Knowledge Base</a>  |  <a href='http://www.powr.io/plugins'>More from POWr</a> =
+POWr Survey is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
 <br>
-</blockquote>
+<br>
+First, download, install, and activate POWr Survey. Then drop the widget anywhere in your theme. Or add to a page/post with the POWr icon in the WP editor.
+<br>
+= <a href='http://www.powr.io/tutorials/how-to-add-survey-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
+<br>
 
 = Free Features =
 * Unlimited inputs for text, dropdowns, checkboxes, and more.
@@ -31,26 +32,27 @@ To use Survey, download and install the plugin, then add to your site as a widge
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device. 
 <br>
-= Upgrade to POWr Premium ($2.99)/month and: =
+= Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Multiple Recipients - automatically send form responses to multiple email addresses.
 * After Submission - choose to clear form, lock form, hide form, or redirect to a new page after user submission.
-* Boost plugin load speeds
 * Receive premium POWr support
 * Support the development of other great plugins
 
 == Installation ==
-To install POWr Survey
-<br><br>
-1. Upload 'powr-survey.php' to the '/wp-content/plugins/' directory
+Download, install, and activate POWr Survey.
 <br>
-2. Activate the plugin through the 'Plugins' menu in WordPress
-<br><br>
-To add POWr Survey as a widget, go to **Appearance->Widgets**, and drag POWr Survey to where you'd like it to appear.
-<br><br>
-To add Survey within a post or a page, simply write the shortcode **[powr-survey label='MY LABEL']** (including the brackets) where you'd like your Survey to appear. Then visit your page!
-<br><br>
-Want a more detailed tutorial? Visit [How to add Survey to your Wordpress site](http://www.powr.io/tutorials/how-to-add-survey-plugin-to-your-wordpress-site)
+<br>
+Then drop the widget anywhere in your theme.
+<br>
+<br>
+Or add to a page/post with the POWr Icon in the WP text editor.
+<br>
+<br>
+Then visit your site to and click the settings icon to edit right in the page.
+<br>
+= <a href='http://www.powr.io/tutorials/how-to-add-survey-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
+
 
 
 == Frequently Asked Questions ==
@@ -88,6 +90,9 @@ Improved SSL Support
 = 1.2 =
 Improved loading speed
 
+= 1.3 =
+Easily add POWr plugins right from the text editor.
+
 
 
 == Changelog ==
@@ -99,5 +104,8 @@ Improved loading speed
 
 = 1.2 =
 * Improved loading speed
+
+= 1.3 =
+Easily add POWr plugins right from the text editor.
 
 
