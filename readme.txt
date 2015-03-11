@@ -22,7 +22,6 @@ First, download, install, and activate POWr Survey. Then drop the widget anywher
 <br>
 = <a href='http://www.powr.io/tutorials/how-to-add-survey-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
-
 = Free Features =
 * Unlimited inputs for text, dropdowns, checkboxes, and more.
 * Choose from expert-designed templates, or take control with custom fonts, colors, backgrounds, and more.
@@ -36,8 +35,10 @@ First, download, install, and activate POWr Survey. Then drop the widget anywher
 * Eliminate all POWr logos and watermarks
 * Multiple Recipients - automatically send form responses to multiple email addresses.
 * After Submission - choose to clear form, lock form, hide form, or redirect to a new page after user submission.
+* Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 == Installation ==
 Download, install, and activate POWr Survey.
