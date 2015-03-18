@@ -23,7 +23,7 @@ First, download, install, and activate POWr Survey. Then drop the widget anywher
 = <a href='http://www.powr.io/tutorials/how-to-add-survey-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
 = Free Features =
-* Unlimited inputs for text, dropdowns, checkboxes, and more.
+* Add form inputs for text, dropdowns, checkboxes, email and more.
 * Choose from expert-designed templates, or take control with custom fonts, colors, backgrounds, and more.
 * Automatically receive email notifications and send custom “thank you” messages when Surveys are submitted. 
 * Automatically store responses for analysis and export.
