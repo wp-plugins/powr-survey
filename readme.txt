@@ -40,6 +40,7 @@ First, download, install, and activate POWr Survey. Then drop the widget anywher
 * Support the development of other great plugins
 
 
+
 == Installation ==
 Download, install, and activate POWr Survey.
 <br>
