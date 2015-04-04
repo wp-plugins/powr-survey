@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Unique, beautiful, responsive surveys for your site.
 
 == Description ==
-[youtube https://youtu.be/sMHW9ooMrpg] Unique, beautiful, responsive surveys for your site.
+[youtube https://www.youtube.com/watch?v=sMHW9ooMrpg] Unique, beautiful, responsive surveys for your site.
 <br>
 <br>
 POWr Survey is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
