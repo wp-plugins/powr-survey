@@ -23,11 +23,13 @@ First, download, install, and activate POWr Survey. Then drop the widget anywher
 = <a href='http://www.powr.io/tutorials/how-to-add-survey-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
 = Free Features =
-* Accept payments through PayPal.
-* Easy inputs for text, dropdowns, checkboxes, email, date, and more.
-* Choose from expert-designed templates, or take control with custom fonts, colors, backgrounds, and more.
-* Automatically receive email notifications and send custom “thank you” messages when Surveys are submitted. 
-* Automatically store responses for analysis and export.
+* Accept payments and donations through PayPal.
+* Create recurring payments for memberships and subscriptions.
+* Add inputs for text, dropdowns, checkboxes, email, date, and more.
+* Use expert-designed templates or start from scratch.
+* Custom fonts, colors, borders, backgrounds, and more.
+* Receive automatic email notifications and store responses for analysis and export.  
+* Display custom “thank you” messages when forms are submitted.
 * Choose between optional or required input fields. 
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device. 
@@ -35,7 +37,7 @@ First, download, install, and activate POWr Survey. Then drop the widget anywher
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Automatically send form responses to multiple email addresses.
-* Choose to clear form, lock form, hide form, or redirect to a new page after user submission.
+* Choose to clear, lock, hide, or redirect after submission.
 * Allow users to upload images, documents, audio, and more.
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
