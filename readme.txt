@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: subscription, analytics dashboard, RSVP, dynamic, order form, html form, online forms, form creator, application form, newsletter, quiz, quizzes, support, small business, email, contact, spam, CAPTCHA, analytics, data, database, themes, feedback, registration, contact form, customer satisfaction survey, event registration, job application, online quiz, sales lead form, donation form, subscribe to newsletter, online poll, testimonial form, support request, responsive web design, personalized, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, Survey, create survey, custom survey, free survey, questionnaire, survey monkey, survey gizmo, survey widget, survey plugin, mobile responsive, powr survey
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -34,6 +34,7 @@ First, download, install, and activate POWr Survey. Then drop the widget anywher
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device. 
 <br>
+
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Automatically send form responses to multiple email addresses.
