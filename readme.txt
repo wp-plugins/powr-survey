@@ -35,11 +35,12 @@ First, download, install, and activate POWr Survey. Then drop the widget anywher
 * Mobile responsive design looks great on any device. 
 <br>
 
-= Upgrade ($2.99)/mo and: =
+= Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-* Automatically send form responses to multiple email addresses.
-* Choose to clear, lock, hide, or redirect after submission.
-* Allow users to upload images, documents, audio, and more.
+* Send form responses to multiple admins
+* Clear, lock, hide, or redirect after submit
+* Block repeat submissions from user
+* Accept file uploads
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
